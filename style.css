@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h1{
+    color: tomato;
+    text-decoration: underline;
+}
+
+#birthdate{
+    font-size: 35px;
+    background-color: silver;
+}
+
+.btn{
+    font-size: 30px;
+    border-radius: 17px;
+    background-color: burlywood;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    border-radius: 6px;
+    background-color: darkgray;
+}
